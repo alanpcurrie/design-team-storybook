@@ -1,0 +1,21 @@
+/**
+ * @tokens Colors
+ * @presenter Color
+ */
+
+$mc--med: #76FF03; /* Main color */
+$sc--med: #0000ff; /* Secondary color */
+$ac--1: #F18AAE; /* Accent color 1 */
+$ac--2: #A020F0; /* Accent color 2 */
+$nc--00: #FDFDFD; /* Neutral color 00 */
+$nc--100: #24292E; /* Neutral color 100 */
+$uc--positive: green; /* Utility color positive */
+$uc--caution: orange; /* Utility color caution */
+$uc--warning: red; /* Utility color warning */
+
+/**
+ * @tokens Transitions
+ * @presenter Transition
+ */
+$tr--s: all .3s ease;
+$tr--m: all .5s ease;
