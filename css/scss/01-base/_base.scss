@@ -38,7 +38,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: $mc--med;
+  color: $nc--100;
   font-weight: bold;
   font-family: 'Bangers', cursive;
   line-height: 1.2;
@@ -55,7 +55,7 @@ a {
   transition: $tr--s;
 
   &:hover {
-    color: lighten($mc--med, 20%);
+    color: lighten($nc--100, 20%);
   }
 }
 
