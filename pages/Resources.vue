@@ -1,7 +1,7 @@
 <template>
   <section>
     <header>
-      <h1>Welcome to storybook</h1>
+      <h1>Storybook for Design Systems</h1>
     </header>
     <segment-list-block-media :items="items" />
     <segment-list-block-media :items="itemsSmall" size="small" />
@@ -14,7 +14,7 @@ import StoryBookLogo from '../images/story-book-logo.png'
 import SopraSteriaLogo from '../images/Sopra_Steria_logo.png'
 import SegmentListBlockMedia from '../segments/SegmentListBlockMedia'
 export default {
-  name: 'WelcomePage',
+  name: 'ResourcesPage',
   components: {
     SegmentListBlockMedia
   },
