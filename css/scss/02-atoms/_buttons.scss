@@ -3,15 +3,15 @@
 }
 
 .btn--primary {
-  background-color: $mc--med;
-  border: 1px solid $mc--med;
   padding: 8px 16px;
+  border: 1px solid $sc--med;
   border-radius: 4px;
+  background-color: $sc--med;
   color: $nc--00;
   transition: $tr--s;
-  
+
   &:hover {
     background-color: transparent;
-    color: $mc--med;
+    color: $sc--med;
   }
 }
