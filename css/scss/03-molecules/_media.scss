@@ -8,7 +8,9 @@
   .img--square {
     width: 200px;
     height: 200px;
+    padding: 1rem;
     border-radius: 8px;
+    object-fit: cover;
     -webkit-filter: sepia(100%);
     filter: sepia(100%);
     -webkit-transition: .3s ease-in-out;

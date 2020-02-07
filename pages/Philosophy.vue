@@ -20,7 +20,7 @@ export default {
   },
   data() {
     return {
-      items: [
+      itemsSmall: [
         {
           title: 'Philosophy',
           text: 'Testing components in isolation. Source of truth. Portable and reusable stories',

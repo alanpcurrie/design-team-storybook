@@ -20,14 +20,15 @@ export default {
   },
   data() {
     return {
-      items: [
+      itemsSmall: [
         {
           title: 'Design Systems',
           text: 'Visibility, portable, reusable, themable  communication: creates a business wide design language, ',
           imageUrl: SopraSteriaLogo,
+          size: 'small'
         },
         {
-          title: 'Le StoryBookLogo',
+          title: 'Design ❤️ Development',
           text: 'Connecting design and development helps teams identify edge cases before shipping and rapidly respond to bugs after shipping.',
           imageUrl: SopraSteriaLogo,
          

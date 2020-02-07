@@ -20,7 +20,7 @@ export default {
   },
   data() {
     return {
-      items: [
+      itemsSmall: [
         {
           title: 'Notable Storybook Users',
           text:'IBM, airbnb, govuk',

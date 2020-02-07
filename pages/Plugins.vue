@@ -20,7 +20,7 @@ export default {
   },
   data() {
     return {
-      items: [
+      itemsSmall: [
         {
           title: 'Addons - plugins',
           text: 'A11y, knob, links, notes, storysource – deprectaed syntax viewport, design tokens',

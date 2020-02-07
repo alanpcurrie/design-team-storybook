@@ -65,7 +65,7 @@ storiesOf("Templates", module)
       template: `
       <section>
       <header>
-        <h1>I'm a H1</h1>
+        <h1>Template Example</h1>
       </header>
       <segment-list-block-media :items="items" />
       <segment-list-block-media :items="itemsSmall" size="small" />

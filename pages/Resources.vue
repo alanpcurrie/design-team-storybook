@@ -20,7 +20,7 @@ export default {
   },
   data() {
     return {
-      items: [
+      itemsSmall: [
         {
           title: 'Docs',
           text: 'https://storybook.js.org/docs/examples/',
