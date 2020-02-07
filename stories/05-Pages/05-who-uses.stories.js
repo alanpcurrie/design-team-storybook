@@ -2,7 +2,7 @@ import { storiesOf } from "@storybook/vue";
 import { withKnobs, select, object } from "@storybook/addon-knobs";
 
 /* Components */
-import WhoUses from "../../../pages/WhoUses.vue";
+import WhoUses from "../../pages/WhoUses.vue";
 
 /* Spec */
 

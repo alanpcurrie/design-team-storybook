@@ -2,7 +2,7 @@ import { storiesOf } from "@storybook/vue";
 import { withKnobs, select, object } from "@storybook/addon-knobs";
 
 /* Components */
-import Philosophy from "../../../pages/Philosophy.vue";
+import Philosophy from "../../pages/Philosophy.vue";
 
 /* Spec */
 
