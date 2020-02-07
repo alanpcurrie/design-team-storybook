@@ -22,57 +22,23 @@ export default {
     return {
       items: [
         {
+          title: 'Design Systems',
+          text: 'Visibility, portable, reusable, themable  communication: creates a business wide design language, ',
+          imageUrl: SopraSteriaLogo,
+        },
+        {
           title: 'Le StoryBookLogo',
-          text:
-            "Un StoryBookLogo est une petite créature humanoïde imaginaire issue du folklore irlandais. Il est souvent représenté sous forme d'un vieil homme de petite taille avec une barbe, coiffé d'un chapeau et vêtu de rouge ou de vert. Le StoryBookLogo passerait son temps à fabriquer des chaussures, commettre des farces et compter ses pièces d'or qu'il conserve dans un chaudron caché au pied d'un arc-en-ciel.",
+          text: 'Connecting design and development helps teams identify edge cases before shipping and rapidly respond to bugs after shipping.',
+          imageUrl: SopraSteriaLogo,
+         
+        },
+        {
+          title: 'Example',
+          text: 'Example - Atomic design finding contextual issues',
           imageUrl: SopraSteriaLogo,
           size: 'small'
         },
-        {
-          title: 'Le StoryBookLogo',
-          text:
-            "Un StoryBookLogo est une petite créature humanoïde imaginaire issue du folklore irlandais. Il est souvent représenté sous forme d'un vieil homme de petite taille avec une barbe, coiffé d'un chapeau et vêtu de rouge ou de vert. Le StoryBookLogo passerait son temps à fabriquer des chaussures, commettre des farces et compter ses pièces d'or qu'il conserve dans un chaudron caché au pied d'un arc-en-ciel.",
-          imageUrl: SopraSteriaLogo
-        },
-        {
-          title: 'Le StoryBookLogo',
-          text:
-            "Un StoryBookLogo est une petite créature humanoïde imaginaire issue du folklore irlandais. Il est souvent représenté sous forme d'un vieil homme de petite taille avec une barbe, coiffé d'un chapeau et vêtu de rouge ou de vert. Le StoryBookLogo passerait son temps à fabriquer des chaussures, commettre des farces et compter ses pièces d'or qu'il conserve dans un chaudron caché au pied d'un arc-en-ciel.",
-          imageUrl: SopraSteriaLogo
-        },
-        {
-          title: 'Le StoryBookLogo',
-          text:
-            "Un StoryBookLogo est une petite créature humanoïde imaginaire issue du folklore irlandais. Il est souvent représenté sous forme d'un vieil homme de petite taille avec une barbe, coiffé d'un chapeau et vêtu de rouge ou de vert. Le StoryBookLogo passerait son temps à fabriquer des chaussures, commettre des farces et compter ses pièces d'or qu'il conserve dans un chaudron caché au pied d'un arc-en-ciel.",
-          imageUrl: SopraSteriaLogo
-        }
       ],
-      itemsSmall: [
-        {
-          title: 'Attrapez-les tous !',
-          text:
-            'Si jamais il se fait capturer, il peut exaucer trois vœux en échange de sa libération.',
-          imageUrl: SopraSteriaLogo
-        },
-        {
-          title: 'Attrapez-les tous !',
-          text:
-            'Si jamais il se fait capturer, il peut exaucer trois vœux en échange de sa libération.',
-          imageUrl: SopraSteriaLogo
-        },
-        {
-          title: 'Attrapez-les tous !',
-          text:
-            'Si jamais il se fait capturer, il peut exaucer trois vœux en échange de sa libération.',
-          imageUrl: SopraSteriaLogo
-        },
-        {
-          title: 'Attrapez-les tous !',
-          text:
-            'Si jamais il se fait capturer, il peut exaucer trois vœux en échange de sa libération.',
-          imageUrl: SopraSteriaLogo
-        }
-      ]
     }
   }
 }

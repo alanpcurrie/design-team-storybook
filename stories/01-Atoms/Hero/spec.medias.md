@@ -1,4 +1,4 @@
-# Image square
+# Hero
 
 ## Props
 

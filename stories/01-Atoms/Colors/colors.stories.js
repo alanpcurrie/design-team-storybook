@@ -16,7 +16,9 @@ storiesOf("Atoms/Colors", module)
       },
       data() {
         return {
-          colors: [{ colorName: "$mc--med", colorHex: "#0000ff" }]
+          colors: [
+            { colorName: "$mc--med", colorHex: "#76FF03" },
+            { colorName: "$sc--med", colorHex: "#0000ff" }]
         };
       },
       template: `
@@ -43,8 +45,8 @@ storiesOf("Atoms/Colors", module)
       data() {
         return {
           colors: [
-            { colorName: "$ac--1", colorHex: "#ffc0cb" },
-            { colorName: "$ac--2", colorHex: "#6495ed" }
+            { colorName: "$ac--1", colorHex: "#F18AAE" },
+            { colorName: "$ac--2", colorHex: "#A020F0" }
           ]
         };
       },
@@ -72,8 +74,8 @@ storiesOf("Atoms/Colors", module)
       data() {
         return {
           colors: [
-            { colorName: "$nc--00", colorHex: "#FFFFFF" },
-            { colorName: "$nc--100", colorHex: "#000000" }
+            { colorName: "$nc--00", colorHex: "#FDFDFD" },
+            { colorName: "$nc--100", colorHex: "#24292E" }
           ]
         };
       },

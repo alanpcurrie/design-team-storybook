@@ -23,9 +23,8 @@ export default {
     return {
       items: [
         {
-          title: 'Le StoryBookLogo',
-          text:
-            "Un StoryBookLogo est une petite créature humanoïde imaginaire issue du folklore irlandais. Il est souvent représenté sous forme d'un vieil homme de petite taille avec une barbe, coiffé d'un chapeau et vêtu de rouge ou de vert. Le StoryBookLogo passerait son temps à fabriquer des chaussures, commettre des farces et compter ses pièces d'or qu'il conserve dans un chaudron caché au pied d'un arc-en-ciel.",
+          title: 'What is Storybook?',
+          text: 'Storybook is a user interface development environment and playground for UI components. The tool enables developers to create components independently and showcase components interactively in an isolated development environment.',
           imageUrl: SopraSteriaLogo,
           size: 'small'
         },

@@ -5,6 +5,7 @@
 
 * {
   box-sizing: border-box;
+  background: papayawhip;
 }
 
 input:focus,
@@ -41,7 +42,7 @@ h6 {
   color: $nc--100;
   font-weight: bold;
   font-family: 'Bangers', cursive;
-  line-height: 1.2;
+  line-height: 1.1;
 }
 
 
@@ -51,11 +52,16 @@ ul {
 }
 
 a {
-  color: $mc--med;
+  font-size: 1.2rem;
+  line-height: 1.75;
+  display: flex;
+  color: $nc--100;
   transition: $tr--s;
+  text-decoration-skip-ink: auto;
+  text-decoration: underline $sc--med;
 
   &:hover {
-    color: lighten($nc--100, 20%);
+    color: lighten($sc--med, 20%);
   }
 }
 
