@@ -17,7 +17,7 @@ storiesOf("Atoms/links", module)
           default: text('Examples', 'https://storybook.js.org/docs/examples/')
         },
         link2: {
-          default: text("use cases", "https://storybook.js.org/use-cases/")
+          default: text("Use cases", "https://storybook.js.org/use-cases/")
         },
         link3: {
           default: text("Gov Uk Storybook", "https://govuk-react.github.io/govuk-react/?path=/story/welcome--to-govuk-react")
